@@ -1,0 +1,13 @@
+.Header{
+    height: 80px;
+    background-color: var(--main-light-color);
+}
+.navbar{
+    background-color: var(--main-dark-color);
+}
+.nav-link{
+    text-align: center;
+}
+.nav-link:hover{
+    font-weight: 700;
+}

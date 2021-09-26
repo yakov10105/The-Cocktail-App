@@ -1,0 +1,15 @@
+.Home{
+    margin:0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carusel{
+    margin-top: 100px;
+}
+.place{
+    width: 750px;
+    height: 500px;
+    background-color: gray;
+}
